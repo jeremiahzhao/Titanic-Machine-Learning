@@ -1,6 +1,6 @@
 # Titanic-Machine-Learning
 
-This was a fun project that helps predicts survivability on the Titanic. In this project, I am exposed to Pycaret and Catboost for the first time. Pycaret was very simple to use to incorporate all the different types of models used in this project.
+This was a fun project that helps predicts survivability on the Titanic. In this project, I am exposed to Pycaret and Catboost for the first time. Pycaret was very simple to use to incorporate all the different types of models used in this project. I used some basic exploratory data analyses and looked at some data visualization with Seaborn.
 
 Some of the machine learning models I used include Logistic Regression, LinearSVC, Random Forest, K-Nearest Neighbors, Gaussian, Decision Trees, Ridge Classifiers, CatBoost, etc. 
 
